@@ -6,4 +6,5 @@ scottccoller@gmail.com
 
 ##### Completed Nov. 2018
 Object oriented calculator with features including, square/root 
+work portfolio
 
